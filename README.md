@@ -53,7 +53,7 @@
 </div>
 
 ###
-<div class="d-flex flex-column">
+<div class="d-flex flex-row">
   <div align="center">
       <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4bzJrcHFpMDRpYTh5Y203b3VxM2txZnRhbnRqY3Y2NGdtMDFmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
   </div>
