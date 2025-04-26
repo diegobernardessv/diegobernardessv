@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2020<br>📚 Atualmente cursando pós-graduação em Desenvolvimento Fullstack 👨🏽‍💻, e estudando Docker 🐳<br>🎯 Metas: Morar em um lugar frio ❄ na Europa, e fazer meus projetos se tornarem ferramentas poderosas, transformando ideias em realidade⭐</p>
+<p align="left">✨ Criando bugs desde 2020<br>📚 Atualmente cursando pós-graduação em Desenvolvimento Fullstack 👨🏽‍💻, e estudando Docker 🐳<br>🎯 Metas: Morar em um lugar frio❄na Europa, e fazer meus projetos se tornarem ferramentas poderosas, transformando ideias em realidade⭐</p>
 
 ###
 
