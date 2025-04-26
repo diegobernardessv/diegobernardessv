@@ -2,7 +2,20 @@
 
 ###
 
-<p align="left">Meu nome é Diego, e eu sou um desenvolvedor Fullstack.</p>
+<p align="left">
+  ## Olá! 👋 Eu sou Diego Bernardes Silva
+
+Um desenvolvedor Fullstack com paixão por transformar ideias em realidade através da tecnologia. Sou formado em Análise e Desenvolvimento de Sistemas e possuo um forte conhecimento em Python e JavaScript, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando HTML, CSS, React.js e Bootstrap. No desenvolvimento backend, conto com a versatilidade do Flask para construir soluções robustas e escaláveis.
+
+Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em PostgreSQL, além da criação de APIs de alta performance que garantem a integração eficiente entre sistemas.
+
+Na área de dados, utilizo o Power BI para transformar informações em insights valiosos através da modelagem DAX, e aplico Python (com bibliotecas como Pandas, Selenium e PyAutoGUI) para automação, análise e otimização de fluxos de trabalho.
+
+Atualmente, estou aprimorando minhas habilidades e explorando novas fronteiras tecnológicas enquanto curso Pós Graduação em Desenvolvimento Full Stack.
+
+[![GitLab](https://img.shields.io/badge/GitLab-F18058?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/diegobernardessv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7319077828354809859/)
+</p>
 
 ###
 
