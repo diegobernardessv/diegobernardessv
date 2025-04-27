@@ -5,7 +5,7 @@
 <p align="left">
   Eu sou Diego Bernardes Silva.
 
-Um desenvolvedor Fullstack com paixão por transformar ideias em realidade através da tecnologia.
+Um desenvolvedor Fullstack apaixonado por transformar ideias em realidade através da tecnologia.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e possuo um sólido conhecimento em Python e JavaScript, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando HTML, CSS, React.js e Bootstrap.
 
@@ -27,7 +27,7 @@ Atualmente, estou aprimorando minhas habilidades e explorando novas fronteiras t
 
 ###
 
-<p align="left">✨ Criando bugs desde 2020<br>📚 Atualmente cursando pós-graduação em Desenvolvimento Fullstack 👨🏽‍💻, e estudando Docker 🐳<br>🎯 Metas: Morar em um lugar frio ❄, e fazer meus projetos se tornarem ferramentas poderosas, transformando ideias em realidade ⭐</p>
+<p align="left">✨ Criando bugs desde 2020<br>📚 Atualmente cursando Pós-graduação em Desenvolvimento Full Stack 👨🏽‍💻, e estudando Docker 🐳<br>🎯 Metas: Morar em um lugar frio ❄, e fazer meus projetos se tornarem ferramentas poderosas, transformando ideias em realidade ⭐</p>
 
 ###
 
