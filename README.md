@@ -6,7 +6,9 @@
   Eu sou Diego Bernardes Silva
 
 Um desenvolvedor Fullstack com paixão por transformar ideias em realidade através da tecnologia.
+
 Sou formado em Análise e Desenvolvimento de Sistemas e possuo um forte conhecimento em Python e JavaScript, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando HTML, CSS, React.js e Bootstrap.
+
 No desenvolvimento Back End, conto com a versatilidade do Flask para construir soluções robustas e escaláveis.
 
 Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em PostgreSQL, além da criação de APIs de alta performance que garantem a integração eficiente entre sistemas.
