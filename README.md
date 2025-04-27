@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Eu sou Diego Bernardes Silva
+  Eu sou Diego Bernardes Silva.
 
 Um desenvolvedor Fullstack com paixão por transformar ideias em realidade através da tecnologia.
 
