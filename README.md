@@ -5,7 +5,7 @@
 <p align="left">
   Eu sou Diego Bernardes Silva.
 
-Um desenvolvedor Fullstack apaixonado por transformar ideias em realidade através da tecnologia.
+Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e possuo um sólido conhecimento em Python e JavaScript, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando HTML, CSS, React.js e Bootstrap.
 
