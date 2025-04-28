@@ -1,8 +1,6 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
----
-
-<table align="center" border="none">
+<table align="center">
   <tr>
     <td align="center" width="50%">
       
@@ -18,8 +16,8 @@ Minha expertise se estende ao design e gerenciamento de bancos de dados, com exp
 Na área de dados, utilizo o **Power BI** para transformar informações em insights valiosos através da modelagem **DAX**, e aplico **Python** (com bibliotecas como **Pandas**, **Selenium** e **PyAutoGUI**) para automação, análise e otimização de fluxos de trabalho.
 
   </td>
-  <td width="50%">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="400" height="500" alt="GIF animado">
+  <td align="center" width="50%" padding="0">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="450px" alt="GIF animado">
   </td>
   </tr>
 </table>
@@ -27,6 +25,7 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 ---
 
 ## 👨🏽‍💻 Sobre mim :
+
 🎓 Formado em Análise e Desenvolvimento de Sistemas, Pós-graduando em Engenharia de Software  
 🔥 Conhecimento sólido em Python, JavaScript, HTML/CSS, React.js e Bootstrap  
 🛠️ Back-end Developer com Flask para soluções versáteis, robustas e escaláveis  
@@ -34,10 +33,14 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 🛡️ DevOps: Docker  
 📊 Data/APIs: Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyAutoGUI)  
 🎨 Design e Prototipação: Figma, Canva, Draw.io, Mermaid.js  
-🧹 Versionamento: Git, GitLab, GitHub
+🧹 Versionamento: Git, GitLab
+
+---
 
 <h3 align="center">🛠️ Tecnologias que domino</h3>
+
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />  
@@ -52,11 +55,13 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+<h3 align="center">📚 Atualmente estudando</h3>
+
 🌬️ **TailwindCSS**  
 🐳 **Docker**  
 📦 **Arquiteturas escaláveis**  
@@ -64,7 +69,8 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 
 ---
 
-## 🎯 Metas
+<h3 align="center">🎯 Metas</h3>
+
 👨🏽‍💻 Aprimorar meus conhecimentos, e continuar desenvolvendo softwares poderosos.  
 ⭐ Transformar meus projetos em ferramentas disruptivas e inovadoras.  
 🚀 Impactar positivamente o mundo com a tecnologia.  
@@ -74,7 +80,9 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 <h3 align="center">🎬 Um pouco da minha vibe</h3>
 
 <div align="center">
+
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" width="800px" alt="Minha vibe" />
+
 </div>
 
 ---
@@ -82,6 +90,7 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 <h2 align="center">👨🏽‍💻 Onde me encontrar</h2>
 
 <p align="center">
+
   <a href="https://github.com/diegobernardessv/diegobernardessv.git" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=000&borderRadius=8" alt="GitHub Badge" />
   </a>
@@ -97,4 +106,5 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
   <a href="https://instagram.com/diegobernardestv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-6c156c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6c156c&color=6c156c&borderRadius=8" alt="Instagram Badge" />
   </a>
+
 </p>
