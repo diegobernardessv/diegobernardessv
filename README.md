@@ -1,5 +1,7 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
+---
+
 <table>
   <tr>
     <td style="vertical-align: middle;">
@@ -29,7 +31,9 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
 🛡️ DevOps: Docker  
 📊 Data/APIs: Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyAutoGUI)  
 🎨 Design e Prototipação: Figma, Canva, Draw.io, Mermaid.js  
-🧹 Versionamento: Git, GitLab  
+🧹 Versionamento: Git, GitLab
+
+---
 
 ## 🛠️ Tecnologias que domino
 <div align="center">
@@ -47,7 +51,9 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-</div>  
+</div>
+
+---
 
 ## 📚 Atualmente estudando
 🌬️ **TailwindCSS**  
@@ -55,10 +61,14 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
 📦 **Arquiteturas escaláveis**  
 ⚙️ **DevOps (CI/CD)**
 
+---
+
 ## 🎯 Metas
 ❄️ Morar em um lugar frio, desenvolvendo softwares poderosos.  
 ⭐ Transformar meus projetos em ferramentas disruptivas e inovadoras.  
 🚀 Impactar positivamente o mundo com a tecnologia.  
+
+---
 
 ## 🎬 Um pouco da minha vibe
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" alt="Minha vibe" width="100%" />
@@ -82,3 +92,5 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
     <img src="https://img.shields.io/badge/Instagram-6c156c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge";" />
   </a>
 </p>
+
+---
