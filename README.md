@@ -78,6 +78,20 @@ Olá, 👋 Seja muito bem-vindo!
 
 ---
 
+## 🎬 Um pouco da minha vibe
+
+<div style="width: 100%; margin-bottom: 2rem;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" alt="Minha vibe" style="width: 100%; height: auto; border-radius: 8px;">
+</div>
+
+---
+
+<p align="center">
+  <strong>Feito por Diego Bernardes Silva.</strong>
+</p>
+
+---
+
 ## 🔗 Onde me encontrar
 
 <p align="center">
@@ -90,18 +104,4 @@ Olá, 👋 Seja muito bem-vindo!
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7319077828354809859/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-</p>
-
----
-
-## 🎬 Um pouco da minha vibe
-
-<div style="width: 100%; margin-bottom: 2rem;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" alt="Minha vibe" style="width: 100%; height: auto; border-radius: 8px;">
-</div>
-
----
-
-<p align="center">
-  <strong>Feito com ❤️ e visão de futuro por Diego Bernardes Silva.</strong>
 </p>
