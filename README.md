@@ -1,4 +1,4 @@
-<div style="font-family: Comic Sans MS, sans-serif;">
+<div style="font-family: Comic Sans MS, sans-serif; font-size: 16px">
 
 <h1 style="text-align: center;">
 Olá, 👋 Seja muito bem-vindo!
@@ -7,7 +7,7 @@ Olá, 👋 Seja muito bem-vindo!
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <h3 style="text-align: center; font-weight: bolder; font-size: 20px;">Eu sou Diego Bernardes Silva,</h3>
+      <h2 style="text-align: center; font-weight: bolder; font-size: 20px;">Eu sou Diego Bernardes Silva,</h2>
       <p>um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia!</p>
     </td>
     <td style="text-align: center;">
@@ -16,22 +16,21 @@ Olá, 👋 Seja muito bem-vindo!
   </tr>
 </table>
 
----
+<h2>👨🏽‍💻 Sobre mim</h2>
 
-<h3>👨🏽‍💻 Sobre mim</h3>
+<h2>Formação e Especialidades</h2>
+<ul>
+	<li>🎓 Formado em _Análise e Desenvolvimento de Sistemas_, Pós-graduando em _Engenharia de Software_</li>
+	<li>🔥 Conhecimento sólido em _Python_, _JavaScript_, _HTML/CSS_, _React.js_ e _Bootstrap_</li>
+	<li>🛠️ Backend Developer com _Flask_ para soluções versáteis, robustas e escaláveis</li>
+	<li>🗄️ Banco de Dados: _PostgreSQL_, _MongoDB_</li>
+	<li>🛡️ DevOps: _Docker_</li>
+	<li>📊 Data/APIs: _Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyautoGUI)_</li>
+	<li>🎨 Design e Prototipação: _Figma_, _Canva_, _Draw.io_, _Mermaid.js_</li>
+	<li>🧹 _Git, GitLab_ para versionamento de código</li>
+</ul>
 
-<h4>Formação e Especialidades</h4>
-
-🎓 Formado em _Análise e Desenvolvimento de Sistemas_, Pós-graduando em _Engenharia de Software_
-🔥 Conhecimento sólido em _Python_, _JavaScript_, _HTML/CSS_, _React.js_ e _Bootstrap_
-🛠️ Backend Developer com _Flask_ para soluções versáteis, robustas e escaláveis
-🗄️ Banco de Dados: _PostgreSQL_, _MongoDB_
-🛡️ DevOps: _Docker_
-📊 Data/APIs: _Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyautoGUI)_
-🎨 Design e Prototipação: _Figma_, _Canva_, _Draw.io_, _Mermaid.js_
-🧹 _Git, GitLab_ para versionamento de código
-
-<h3>🛠️ Tecnologias que domino</h3>
+<h2>🛠️ Tecnologias que domino</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -50,33 +49,27 @@ Olá, 👋 Seja muito bem-vindo!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </div>
 
----
+<h2>📚 Atualmente estudando</h2>
+<ul>
+	<li>🐳 Docker</li>
+	<li>📦 Arquiteturas escaláveis</li>
+	<li>⚙️ DevOps (CI/CD)</li>
+</ul>
 
-<h3>📚 Atualmente estudando</h3>
+<h2>🎯 Metas</h2>
+<ul>
+	<li>❄️ Morar em um lugar frio, desenvolvendo softwares poderosos.</li>
+	<li>⭐ Transformar meus projetos em ferramentas disruptivas e inovadoras.</li>
+	<li>🚀 Impactar positivamente o mundo com a tecnologia.</li>
+</ul>
 
-🐳 Docker
-📦 Arquiteturas escaláveis
-⚙️ DevOps (CI/CD)
-
----
-
-<h3>🎯 Metas</h3>
-
-❄️ Morar em um lugar frio, desenvolvendo softwares poderosos.
-⭐ Transformar meus projetos em ferramentas disruptivas e inovadoras.
-🚀 Impactar positivamente o mundo com a tecnologia.
-
----
-
-<h3>🧠 Minha atividade recente no GitHub</h3>
+<h2>🧠 Minha atividade recente no GitHub</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=diegobernardessv&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
----
-
-<h3>🎬 Um pouco da minha vibe</h3>
+<h2>🎬 Um pouco da minha vibe</h2>
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnTlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" alt="Minha vibe" width="100%" style="border-radius: 8px; margin-bottom: 2rem;">
 
@@ -84,9 +77,7 @@ Olá, 👋 Seja muito bem-vindo!
   Feito por Diego Bernardes Silva.🌒
 </p>
 
----
-
-<h3 style="font-family: 'Comic Sans MS', sans-serif; text-align: center">👨🏽‍💻 Onde me encontrar</h3>
+<h2 style="font-family: 'Comic Sans MS', sans-serif; text-align: center">👨🏽‍💻 Onde me encontrar</h2>
 
 <p align="center">
   <a href="https://github.com/diegobernardessv/diegobernardessv.git" target="_blank">
@@ -106,11 +97,3 @@ Olá, 👋 Seja muito bem-vindo!
 </p>
 
 </div>
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" alt="Minha vibe" width="100%" style="border-radius: 8px; margin-bottom: 2rem;">
-
----
-
-<p align="center">
-  <strong>👨🏽‍💻 Feito por Diego Bernardes Silva. 🌘</strong>
-</p>
