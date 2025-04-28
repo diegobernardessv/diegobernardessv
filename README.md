@@ -36,8 +36,6 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 🎨 Design e Prototipação: Figma, Canva, Draw.io, Mermaid.js  
 🧹 Versionamento: Git, GitLab, GitHub
 
----
-
 <h3 align="center">🛠️ Tecnologias que domino</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />  
