@@ -70,6 +70,14 @@ Olá, 👋 Seja muito bem-vindo!
 
 ---
 
+## 🧠 Minha atividade recente no GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=diegobernardessv&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🔗 Onde me encontrar
 
 <p align="center">
@@ -86,17 +94,9 @@ Olá, 👋 Seja muito bem-vindo!
 
 ---
 
-## 🧠 Minha atividade recente no GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=diegobernardessv&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🎬 Um pouco da minha vibe
 
-<div class="text-center w-100">
+<div class="text-center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" class="img-fluid" style="height: 100%; width: 100%;" />
 </div>
 
