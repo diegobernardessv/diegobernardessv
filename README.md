@@ -1,79 +1,111 @@
-<h1 align="left">Olá, 👋 como vai??</h1>
+<h1 align="center">Olá, 👋 Seja muito bem-vindo!</h1>
 
-###
-
-<p align="left">
-  Eu sou Diego Bernardes Silva.
-
-Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.
-
-Sou formado em Análise e Desenvolvimento de Sistemas e possuo um sólido conhecimento em Python e JavaScript, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando HTML, CSS, React.js e Bootstrap.
-
-No desenvolvimento Back End, conto com a versatilidade do Flask para construir soluções robustas e escaláveis.
-
-Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em PostgreSQL, além da criação de APIs de alta performance que garantem a integração eficiente entre sistemas.
-
-Na área de dados, utilizo o Power BI para transformar informações em insights valiosos através da modelagem DAX, e aplico Python (com bibliotecas como Pandas, Selenium e PyAutoGUI) para automação, análise e otimização de fluxos de trabalho.
-
-Atualmente, estou aprimorando minhas habilidades e explorando novas fronteiras tecnológicas enquanto curso Pós Graduação em Desenvolvimento Full Stack.
-
-[![GitLab](https://img.shields.io/badge/GitLab-F18058?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/diegobernardessv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7319077828354809859/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diegobernardessv/RomaneiosApp/main/Romaneiosapp_logo.PNG" height="120" alt="RomaneiosApp Logo"/>
 </p>
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+## 👨‍💻 Sobre mim
 
-###
+Eu sou **Diego Bernardes Silva**, um desenvolvedor apaixonado por transformar ideias em soluções que impactam o mundo através da tecnologia!
 
-<p align="left">✨ Criando bugs desde 2020<br>📚 Atualmente cursando Pós-graduação em Desenvolvimento Full Stack 👨🏽‍💻, e estudando Docker 🐳<br>🎯 Metas: Morar em um lugar frio ❄, e fazer meus projetos se tornarem ferramentas poderosas, transformando ideias em realidade ⭐</p>
+---
 
-###
+## 🧠 Formação e Especialidades
 
-<h2 align="left">Tenho conhecimento em</h2>
+- 🎓 **Formado** em *Análise e Desenvolvimento de Sistemas*  
+- 📚 **Pós-graduando** em *Engenharia de Software*  
+- 🔥 Expertise em: *Python*, *JavaScript*, *HTML/CSS*, *React.js*, *Bootstrap*
+- 🛠️ **Back-end Developer** com *Flask* para soluções versáteis, robustas e escaláveis
+- 🗄️ Bancos de dados: *PostgreSQL*, *MongoDB*
+- ⚙️ **DevOps**: *Docker*
+- 📊 Dados & APIs: *Power BI*, *Automação e Análise de Dados* com Python (*Pandas, Selenium, PyAutoGUI*)
+- 🎨 Design & Prototipação: *Figma*, *Canva*, *Draw.io*, *Mermaid.js*
+- 🧹 Versionamento de código com *Git* e *GitLab*
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+## 📚 Atualmente estudando
+
+- 🐳 Docker
+- 🏗️ Arquiteturas escaláveis
+- ⚙️ DevOps (Integrações e Deploys automatizados - CI/CD Pipelines)
+
+---
+
+## 🎯 Metas
+
+- ❄️ Morar em um lugar frio enquanto desenvolvo softwares poderosos
+- ⭐ Transformar meus projetos em ferramentas inovadoras e de grande impacto
+- 🚀 Usar a tecnologia como instrumento para melhorar o mundo
+
+---
+
+## 🛠️ Tecnologias que domino
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </div>
 
-###
-<div class="d-flex flex-column">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" height="320" width="420" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyY29ydXNqZDI1a2Y5czBncHo5dnp2azZsY3V0enh5Zjk5aGIxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIGGOdvMaMjGE/giphy.gif" height="320" width="420" />
+<br>
+
+- 🎨 *Canva* (Design Gráfico)
+- 🧩 *Draw.io* (Modelagem Visual)
+- 🛠️ *Mermaid.js* (Diagramas de Fluxo)
+
+---
+
+## 🔗 Onde me encontrar
+
+<p align="center">
+  <a href="https://github.com/diegobernardessv/diegobernardessv.git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/diegobernardessv" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7319077828354809859/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🧠 Minha atividade no GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=diegobernardessv&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎬 Minha vibe
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" height="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDgyY29ydXNqZDI1a2Y5czBncHo5dnp2azZsY3V0enh5Zjk5aGIxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIGGOdvMaMjGE/giphy.gif" height="250" />
 </div>
+
+---
+
+<p align="center">
+  <strong>Feito com ❤️ e visão de futuro por Diego Bernardes Silva.</strong>
+</p>
+
 
 
   
