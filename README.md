@@ -1,4 +1,4 @@
-<div style="font-family: Comic Sans MS, sans-serif; font-size: 16px">
+<div style="font-family: Comic Sans MS, sans-serif; font-size: 14px">
 
 <h1 style="text-align: center;">
 Olá, 👋 Seja muito bem-vindo!
@@ -20,7 +20,7 @@ Olá, 👋 Seja muito bem-vindo!
 
 <h3>👨🏽‍💻 Sobre mim</h3>
 
-<h5>Formação e Especialidades</h5>
+<h4>Formação e Especialidades</h4>
 
 🎓 Formado em _Análise e Desenvolvimento de Sistemas_, Pós-graduando em _Engenharia de Software_
 🔥 Conhecimento sólido em _Python_, _JavaScript_, _HTML/CSS_, _React.js_ e _Bootstrap_
