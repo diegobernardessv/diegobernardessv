@@ -64,7 +64,7 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
 ---
 
 ## 🎯 Metas
-❄️ Morar em um lugar frio, desenvolvendo softwares poderosos.  
+❄️ Aprimorar meus conhecimentos, e continuar desenvolvendo softwares poderosos.  
 ⭐ Transformar meus projetos em ferramentas disruptivas e inovadoras.  
 🚀 Impactar positivamente o mundo com a tecnologia.  
 
