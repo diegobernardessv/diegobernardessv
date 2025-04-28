@@ -1,9 +1,5 @@
 <h1 align="center">Olá, 👋 Seja muito bem-vindo!</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diegobernardessv/RomaneiosApp/main/Romaneiosapp_logo.PNG" height="120" alt="RomaneiosApp Logo"/>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
