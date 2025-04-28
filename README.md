@@ -4,7 +4,7 @@ Olá, 👋 Seja muito bem-vindo!
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 2rem 0;">
   <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <p style="font-size: 1.1rem; line-height: 1.6;">
+    <p style="font-size: 1.2rem; line-height: 1.6;">
       <strong>Eu sou Diego Bernardes Silva,</strong>
     </p>
     <p>
@@ -12,7 +12,7 @@ Olá, 👋 Seja muito bem-vindo!
     </p>
     </p>
   </div>
-  <div style="flex: 1; min-width: 300px; text-align: center;">
+  <div style="flex: 1; width: 50px; text-align: center;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" alt="GIF animado" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
