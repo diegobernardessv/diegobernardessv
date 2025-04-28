@@ -1,5 +1,7 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
+---
+
 <table align="center" border="none">
   <tr>
     <td align="center" width="50%">
