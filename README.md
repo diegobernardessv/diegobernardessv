@@ -1,9 +1,9 @@
-## Olá devs, 👋 Sejam muito bem-vindos!
+<h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <h3>Eu sou Diego Bernardes Silva,</h3>
+      <h3 align="center">Eu sou Diego Bernardes Silva,</h3>
       <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e possuo um sólido conhecimento em Python e JavaScript, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando HTML, CSS, React.js e Bootstrap.
