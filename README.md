@@ -3,8 +3,8 @@ Olá, 👋 Seja muito bem-vindo!
 </h1>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 2rem 0;">
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <p style="font-size: 1.2rem; line-height: 1.6;">
+  <div style="flex: 1; min-width: 300px; max-width: 600px;">
+    <p style="font-size: 1.1rem; line-height: 1.6;">
       <strong>Eu sou Diego Bernardes Silva,</strong>
     </p>
     <p>
@@ -12,8 +12,8 @@ Olá, 👋 Seja muito bem-vindo!
     </p>
     </p>
   </div>
-  <div style="flex: 1; width: 50px; text-align: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" alt="GIF animado" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" alt="GIF animado" style="max-width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
 
@@ -96,8 +96,8 @@ Olá, 👋 Seja muito bem-vindo!
 
 ## 🎬 Um pouco da minha vibe
 
-<div class="text-center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" class="img-fluid" style="height: 100%; width: 100%;" />
+<div style="width: 100%; margin-bottom: 2rem;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" alt="Minha vibe" style="width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 ---
