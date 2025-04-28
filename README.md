@@ -4,7 +4,7 @@
 
 <table align="center" border="none">
   <tr>
-    <td align="center" width="50%">
+    <td width="50%">
       
 ### Eu sou Diego Bernardes Silva
 
