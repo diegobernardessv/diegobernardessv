@@ -1,4 +1,4 @@
-<div style="font-family: Comic Sans MS, sans-serif; font-size: 14px">
+<div style="font-family: Comic Sans MS, sans-serif;">
 
 <h1 style="text-align: center;">
 Olá, 👋 Seja muito bem-vindo!
