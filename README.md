@@ -18,7 +18,7 @@ Minha expertise se estende ao design e gerenciamento de bancos de dados, com exp
 Na área de dados, utilizo o **Power BI** para transformar informações em insights valiosos através da modelagem **DAX**, e aplico **Python** (com bibliotecas como **Pandas**, **Selenium** e **PyAutoGUI**) para automação, análise e otimização de fluxos de trabalho.
 
   </td>
-  <td align="center" width="50%" padding="2px">
+  <td align="center" width="50%" margin="0 7px 1px 7px">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="100%" height="550px" alt="GIF animado">
   </td>
   </tr>
