@@ -7,7 +7,7 @@ Olá, 👋 Seja muito bem-vindo!
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <h2 style="text-align: center; font-weight: bolder; font-size: 20px;">Eu sou Diego Bernardes Silva,</h2>
+      <p style="text-align: center; font-weight: bolder; font-size: 20px;">Eu sou Diego Bernardes Silva,</p>
       <p>um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia!</p>
     </td>
     <td style="text-align: center;">
