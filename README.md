@@ -47,6 +47,8 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </div>  
 
+---
+
 ## 📚 Atualmente estudando
 🌬️ **TailwindCSS**  
 🐳 **Docker**  
