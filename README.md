@@ -19,7 +19,7 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 
   </td>
   <td align="center" width="50%" padding="0">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="100%" height="550px" alt="GIF animado">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="100%" height="575px" alt="GIF animado">
   </td>
   </tr>
 </table>
