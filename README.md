@@ -1,4 +1,5 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
+
 <table>
   <tr>
     <td style="vertical-align: middle;">
@@ -48,8 +49,6 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </div>  
 
----
-
 ## 📚 Atualmente estudando
 🌬️ **TailwindCSS**  
 🐳 **Docker**  
@@ -64,24 +63,22 @@ Na área de dados, utilizo o Power BI para transformar informações em insights
 ## 🎬 Um pouco da minha vibe
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" alt="Minha vibe" width="100%" />
 
----
-
 <h2 align="center">👨🏽‍💻 Onde me encontrar</h2>
 
 <p align="center">
   <a href="https://github.com/diegobernardessv/diegobernardessv.git" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge";" />
   </a>
   <a href="https://gitlab.com/diegobernardessv" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge";" />
   </a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7319077828354809859/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge";" />
   </a>  
   <a href="https://youtube.com/@diegobernardestv?si=7fnjgJmq_bSsY3Cg" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge";" />
   </a>
   <a href="https://instagram.com/diegobernardestv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-6c156c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/Instagram-6c156c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge";" />
   </a>
 </p>
