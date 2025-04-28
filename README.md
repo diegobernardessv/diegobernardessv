@@ -2,7 +2,7 @@
 
 ---
 
-<table align="center" border="none">
+<table border="none">
   <tr>
     <td align="center" width="50%">
       
