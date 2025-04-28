@@ -34,7 +34,7 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 🛡️ DevOps: Docker  
 📊 Data/APIs: Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyAutoGUI)  
 🎨 Design e Prototipação: Figma, Canva, Draw.io, Mermaid.js  
-🧹 Versionamento: Git, GitLab
+🧹 Versionamento: Git, GitLab, GitHub
 
 ---
 
