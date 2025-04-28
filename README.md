@@ -1,6 +1,5 @@
-<h1 align="center">Olá, 👋 Seja muito bem-vindo!</h1>
+<h1 align="center" style="border-bottom: 2px solid #ccc; padding-bottom: 10px;">Olá, 👋 Seja muito bem-vindo!</h1>
 
----
 ---
 
 ## 👨‍💻 Sobre mim
