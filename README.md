@@ -1,5 +1,4 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
-
 <table>
   <tr>
     <td style="vertical-align: middle;">
