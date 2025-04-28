@@ -4,8 +4,6 @@
 Olá, 👋 Seja muito bem-vindo!
 </h1>
 
----
-
 <table>
   <tr>
     <td style="vertical-align: middle;">
