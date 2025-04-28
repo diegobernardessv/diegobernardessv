@@ -14,30 +14,30 @@ Olá, 👋 Seja muito bem-vindo!
 ## 👨‍💻 Sobre mim
 
 **Formação e Especialidades**
-🎓 Formado em *Análise e Desenvolvimento de Sistemas*, Pós-graduando em *Engenharia de Software*
-🔥 Conhecimento sólido em *Python*, *JavaScript*, *HTML/CSS*, *React.js* e *Bootstrap*
-🛠️ Backend Developer com *Flask* para soluções versáteis, robustas e escaláveis 
-🗄️ Banco de Dados: *PostgreSQL*, *MongoDB*
-🛡️ DevOps: *Docker*
-📊 Data/APIs: *Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyautoGUI)*
-🎨 Design e Prototipação: *Figma*, *Canva*, *Draw.io*, *Mermaid.js*
-🧹 *Git, GitLab* para versionamento de código
+- 🎓 Formado em *Análise e Desenvolvimento de Sistemas*, Pós-graduando em *Engenharia de Software*
+- 🔥 Conhecimento sólido em *Python*, *JavaScript*, *HTML/CSS*, *React.js* e *Bootstrap*
+- 🛠️ Backend Developer com *Flask* para soluções versáteis, robustas e escaláveis 
+- 🗄️ Banco de Dados: *PostgreSQL*, *MongoDB*
+- 🛡️ DevOps: *Docker*
+- 📊 Data/APIs: *Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyautoGUI)*
+- 🎨 Design e Prototipação: *Figma*, *Canva*, *Draw.io*, *Mermaid.js*
+- 🧹 *Git, GitLab* para versionamento de código
 
 ---
 
 ## 📚 Atualmente estudando
 
-- 🐳 Docker
-- 📦 Arquiteturas escaláveis
-- ⚙️ DevOps (CI/CD)
+-🐳 Docker
+-📦 Arquiteturas escaláveis
+-⚙️ DevOps (CI/CD)
 
 ---
 
 ## 🎯 Metas
 
-🎯 Meta: Morar em um lugar frio ❄, desenvolvendo softwares poderosos.
-⭐ Transformar meus projetos em ferramentas inovadoras.
-🚀 Impactar positivamente o mundo com a tecnologia. 
+-🎯 Meta: Morar em um lugar frio ❄, desenvolvendo softwares poderosos.
+-⭐ Transformar meus projetos em ferramentas inovadoras.
+-🚀 Impactar positivamente o mundo com a tecnologia. 
 
 ---
 
@@ -97,19 +97,3 @@ Olá, 👋 Seja muito bem-vindo!
 <p align="center">
   <strong>Feito com ❤️ e visão de futuro por Diego Bernardes Silva.</strong>
 </p>
-
-
-
-  
-      
-  
-  
-      
-  
-
-
-  
-
-
-
-###
