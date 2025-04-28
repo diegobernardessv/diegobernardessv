@@ -2,48 +2,48 @@
   Olá, 👋 Seja muito bem-vindo!
 </h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 20px;">
     Eu sou <strong>Diego Bernardes Silva</strong>, um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia!
   </p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" height="150" style="margin-left: 20px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" height="150" />
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-### Formação e Especialidades:
-- 🎓 Formado em *Análise e Desenvolvimento de Sistemas*, Pós-graduando em *Engenharia de Software*.
-- 🔥 Conhecimento sólido em *Python*, *JavaScript*, *HTML/CSS*, *React.js* e *Bootstrap*.
-- 🛠️ Backend Developer com *Flask* para soluções versáteis, robustas e escaláveis.
-- 🗄️ Banco de Dados: *PostgreSQL*, *MongoDB*.
-- 🛡️ DevOps: *Docker*.
-- 📊 Data/APIs: *Power BI*, Automação e Análise de Dados com *Python* (Pandas, Selenium, PyautoGUI).
-- 🎨 Design e Prototipação: *Figma*, *Canva*, *Draw.io*, *Mermaid.js*.
-- 🧹 *Git*, *GitLab* para versionamento de código.
+**Formação e Especialidades**  
+🎓 Formado em *Análise e Desenvolvimento de Sistemas*, Pós-graduando em *Engenharia de Software*  
+🔥 Conhecimento sólido em *Python*, *JavaScript*, *HTML/CSS*, *React.js* e *Bootstrap*  
+🛠️ Backend Developer com *Flask* para soluções versáteis, robustas e escaláveis  
+🗄️ Banco de Dados: *PostgreSQL*, *MongoDB*  
+🛡️ DevOps: *Docker*  
+📊 Data/APIs: *Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyautoGUI)*  
+🎨 Design e Prototipação: *Figma*, *Canva*, *Draw.io*, *Mermaid.js*  
+🧹 *Git, GitLab* para versionamento de código  
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Atualmente estudando
 
-- 🐳 Docker.
-- 📦 Arquiteturas escaláveis.
-- ⚙️ DevOps (CI/CD).
+🐳 Docker  
+📦 Arquiteturas escaláveis  
+⚙️ DevOps (CI/CD)  
 
 ---
 
 ## 🎯 Metas
 
-- 🎯 Meta: Morar em um lugar frio ❄, desenvolvendo softwares poderosos.
-- ⭐ Transformar meus projetos em ferramentas inovadoras.
-- 🚀 Impactar positivamente o mundo com a tecnologia.
+🎯 Meta: Morar em um lugar frio ❄, desenvolvendo softwares poderosos  
+⭐ Transformar meus projetos em ferramentas inovadoras  
+🚀 Impactar positivamente o mundo com a tecnologia  
 
 ---
 
 ## 🛠️ Tecnologias que domino
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -65,13 +65,13 @@
 ## 🔗 Onde me encontrar
 
 <p align="center">
-  <a href="https://github.com/diegobernardessv" target="_blank">
+  <a href="https://github.com/diegobernardessv/diegobernardessv.git" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="https://gitlab.com/diegobernardessv" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/diegobernardessv/" target="_blank">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7319077828354809859/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
@@ -97,4 +97,3 @@
 <p align="center">
   <strong>Feito com ❤️ e visão de futuro por Diego Bernardes Silva.</strong>
 </p>
-
