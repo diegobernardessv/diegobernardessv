@@ -1,43 +1,51 @@
 <h1 align="center">
-  Olá, 👋 Seja muito bem-vindo!
+Olá, 👋 Seja muito bem-vindo!
 </h1>
 
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 20px;">
-    Eu sou <strong>Diego Bernardes Silva</strong>, um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia!
-  </p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" height="150" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin: 2rem 0;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <p style="font-size: 1.1rem; line-height: 1.6;">
+      <strong>Eu sou Diego Bernardes Silva,</strong>
+    </p>
+    <p>
+    um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia!
+    </p>
+    </p>
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" alt="GIF animado" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-**Formação e Especialidades**  
-🎓 Formado em *Análise e Desenvolvimento de Sistemas*, Pós-graduando em *Engenharia de Software*  
-🔥 Conhecimento sólido em *Python*, *JavaScript*, *HTML/CSS*, *React.js* e *Bootstrap*  
-🛠️ Backend Developer com *Flask* para soluções versáteis, robustas e escaláveis  
-🗄️ Banco de Dados: *PostgreSQL*, *MongoDB*  
-🛡️ DevOps: *Docker*  
-📊 Data/APIs: *Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyautoGUI)*  
-🎨 Design e Prototipação: *Figma*, *Canva*, *Draw.io*, *Mermaid.js*  
-🧹 *Git, GitLab* para versionamento de código  
+**Formação e Especialidades**
+- 🎓 Formado em *Análise e Desenvolvimento de Sistemas*, Pós-graduando em *Engenharia de Software*
+- 🔥 Conhecimento sólido em *Python*, *JavaScript*, *HTML/CSS*, *React.js* e *Bootstrap*
+- 🛠️ Backend Developer com *Flask* para soluções versáteis, robustas e escaláveis 
+- 🗄️ Banco de Dados: *PostgreSQL*, *MongoDB*
+- 🛡️ DevOps: *Docker*
+- 📊 Data/APIs: *Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyautoGUI)*
+- 🎨 Design e Prototipação: *Figma*, *Canva*, *Draw.io*, *Mermaid.js*
+- 🧹 *Git, GitLab* para versionamento de código
 
 ---
 
 ## 📚 Atualmente estudando
 
-🐳 Docker  
-📦 Arquiteturas escaláveis  
-⚙️ DevOps (CI/CD)  
+-🐳 Docker
+-📦 Arquiteturas escaláveis
+-⚙️ DevOps (CI/CD)
 
 ---
 
 ## 🎯 Metas
 
-🎯 Meta: Morar em um lugar frio ❄, desenvolvendo softwares poderosos  
-⭐ Transformar meus projetos em ferramentas inovadoras  
-🚀 Impactar positivamente o mundo com a tecnologia  
+-🎯 Meta: Morar em um lugar frio ❄, desenvolvendo softwares poderosos.
+-⭐ Transformar meus projetos em ferramentas inovadoras.
+-🚀 Impactar positivamente o mundo com a tecnologia. 
 
 ---
 
@@ -88,8 +96,8 @@
 
 ## 🎬 Um pouco da minha vibe
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" class="img-fluid" style="width: 100%; max-width: 600px;" alt="Gif representativo" />
+<div class="text-center w-100">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM4cTVpdmk3Zmxhem51a2ZucGI1aTA3cmlpN3k0bzZ6a3Y5eWZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PalpZKlDt5iNfnFXT/giphy.gif" class="img-fluid" style="height: 100%; width: 100%;" />
 </div>
 
 ---
