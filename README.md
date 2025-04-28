@@ -3,17 +3,15 @@
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <p style="text-align: center; font-weight: bolder; font-size: 20px;">Eu sou Diego Bernardes Silva,</p>
-      <p>
-        Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.
+      <h3>Eu sou Diego Bernardes Silva,</h3>
+      <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.
 
 Sou formado em Análise e Desenvolvimento de Sistemas e possuo um sólido conhecimento em Python e JavaScript, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando HTML, CSS, React.js e Bootstrap.
 No desenvolvimento Back End, conto com a versatilidade do Flask para construir soluções robustas e escaláveis.
 
 Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em PostgreSQL, além da criação de APIs de alta performance que garantem a integração eficiente entre sistemas.
 
-Na área de dados, utilizo o Power BI para transformar informações em insights valiosos através da modelagem DAX, e aplico Python (com bibliotecas como Pandas, Selenium e PyAutoGUI) para automação, análise e otimização de fluxos de trabalho.
-</p>
+Na área de dados, utilizo o Power BI para transformar informações em insights valiosos através da modelagem DAX, e aplico Python (com bibliotecas como Pandas, Selenium e PyAutoGUI) para automação, análise e otimização de fluxos de trabalho.<em></p>
     </td>
     <td style="text-align: center;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" alt="GIF animado" width="300">
