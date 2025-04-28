@@ -87,7 +87,7 @@ Olá, 👋 Seja muito bem-vindo!
 ---
 
 <p align="center">
-  <strong>Feito por Diego Bernardes Silva.</strong>
+  <strong>🧑🏽‍💻 Feito por Diego Bernardes Silva. 🌘</strong>
 </p>
 
 ---
