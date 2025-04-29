@@ -22,7 +22,7 @@
   <div style="margin-top: 20px;">
     <img
       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
-      alt="GIF animado" width="800px" height="500px"
+      alt="GIF animado" width="80%"
       />
   </div>
 
