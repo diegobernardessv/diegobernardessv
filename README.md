@@ -1,24 +1,28 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
+<td align="center" width="50%" style="padding-right:1em;">
+  <h3>Eu sou <strong>Diego Bernardes Silva</strong></h3>
+  <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
+  <p>
+    Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo um sólido conhecimento em <strong>Python</strong> e <strong>JavaScript</strong>, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>React.js</strong> e <strong>Bootstrap</strong>.
+    No desenvolvimento <strong>Back End</strong>, conto com a versatilidade do <strong>Flask</strong> para construir soluções robustas e escaláveis.
+  </p>
+  <p>
+    Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em <strong>PostgreSQL</strong>, além da criação de <strong>APIs de alta performance</strong> que garantem a integração eficiente entre sistemas.
+  </p>
+  <p>
+    Na área de dados, utilizo o <strong>Power BI</strong> para transformar informações em insights valiosos através da modelagem <strong>DAX</strong>, e aplico <strong>Python</strong> (com bibliotecas como <strong>Pandas</strong>, <strong>Selenium</strong> e <strong>PyAutoGUI</strong>) para automação, análise e otimização de fluxos de trabalho.
+  </p>
+</td>
     <td align="center" width="50%">
-      
-### Eu sou Diego Bernardes Silva
-
-*Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.*
-
-Sou formado em **Análise e Desenvolvimento de Sistemas** e possuo um sólido conhecimento em **Python** e **JavaScript**, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando **HTML**, **CSS**, **React.js** e **Bootstrap**.  
-No desenvolvimento **Back End**, conto com a versatilidade do **Flask** para construir soluções robustas e escaláveis.
-
-Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em **PostgreSQL**, além da criação de **APIs de alta performance** que garantem a integração eficiente entre sistemas.
-
-Na área de dados, utilizo o **Power BI** para transformar informações em insights valiosos através da modelagem **DAX**, e aplico **Python** (com bibliotecas como **Pandas**, **Selenium** e **PyAutoGUI**) para automação, análise e otimização de fluxos de trabalho.
-
-  </td>
-  <td align="center" width="50%" padding="0">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="450px" alt="GIF animado">
-  </td>
+      <img
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
+        alt="GIF animado"
+        width="100%"
+      />
+    </td>
   </tr>
 </table>
 
@@ -60,7 +64,7 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 
 ---
 
-<h3 align="center">📚 Atualmente estudando</h3>
+<h3>📚 Atualmente estudando</h3>
 
 🌬️ **TailwindCSS**  
 🐳 **Docker**  
@@ -69,7 +73,7 @@ Na área de dados, utilizo o **Power BI** para transformar informações em insi
 
 ---
 
-<h3 align="center">🎯 Metas</h3>
+<h3>🎯 Metas</h3>
 
 👨🏽‍💻 Aprimorar meus conhecimentos, e continuar desenvolvendo softwares poderosos.  
 ⭐ Transformar meus projetos em ferramentas disruptivas e inovadoras.  
