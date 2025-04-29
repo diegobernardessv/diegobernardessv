@@ -1,9 +1,9 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; animation: fadeIn 2s ease-in-out;">
 
-  <div style="max-width: 800px; text-align: left;">
-    <h3 align="center">Eu sou <strong>Diego Bernardes Silva</strong></h3>
+  <div style="max-width: 800px; text-align: left; opacity: 0; animation: fadeInContent 2s forwards;">
+    <h3>Eu sou <strong>Diego Bernardes Silva</strong></h3>
     <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
     <p>
       Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo um sólido conhecimento em <strong>Python</strong> e <strong>JavaScript</strong>, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>React.js</strong> e <strong>Bootstrap</strong>.
@@ -17,13 +17,12 @@
     </p>
   </div>
 
-  ---
-
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 20px; opacity: 0; animation: fadeInGif 2s forwards 1s;">
     <img
       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
-      alt="GIF animado" width="800px" height="500px"
-      />
+      alt="GIF animado"
+      width="80%"
+    />
   </div>
 
 </div>
