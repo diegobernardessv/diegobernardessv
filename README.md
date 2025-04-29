@@ -1,30 +1,32 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
-<table align="center" width="100%">
-  <tr>
-<td align="center" width="50%" style="padding-right:1em;">
-  <h3>Eu sou <strong>Diego Bernardes Silva</strong></h3>
-  <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
-  <p>
-    Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo um sólido conhecimento em <strong>Python</strong> e <strong>JavaScript</strong>, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>React.js</strong> e <strong>Bootstrap</strong>.
-    No desenvolvimento <strong>Back End</strong>, conto com a versatilidade do <strong>Flask</strong> para construir soluções robustas e escaláveis.
-  </p>
-  <p>
-    Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em <strong>PostgreSQL</strong>, além da criação de <strong>APIs de alta performance</strong> que garantem a integração eficiente entre sistemas.
-  </p>
-  <p>
-    Na área de dados, utilizo o <strong>Power BI</strong> para transformar informações em insights valiosos através da modelagem <strong>DAX</strong>, e aplico <strong>Python</strong> (com bibliotecas como <strong>Pandas</strong>, <strong>Selenium</strong> e <strong>PyAutoGUI</strong>) para automação, análise e otimização de fluxos de trabalho.
-  </p>
-</td>
-    <td align="center" width="50%">
-      <img
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
-        alt="GIF animado"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+
+  <div style="max-width: 800px; text-align: left;">
+    <h3 align="center">Eu sou <strong>Diego Bernardes Silva</strong></h3>
+    <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
+    <p>
+      Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo um sólido conhecimento em <strong>Python</strong> e <strong>JavaScript</strong>, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>React.js</strong> e <strong>Bootstrap</strong>.
+      No desenvolvimento <strong>Back End</strong>, conto com a versatilidade do <strong>Flask</strong> para construir soluções robustas e escaláveis.
+    </p>
+    <p>
+      Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em <strong>PostgreSQL</strong>, além da criação de <strong>APIs de alta performance</strong> que garantem a integração eficiente entre sistemas.
+    </p>
+    <p>
+      Na área de dados, utilizo o <strong>Power BI</strong> para transformar informações em insights valiosos através da modelagem <strong>DAX</strong>, e aplico <strong>Python</strong> (com bibliotecas como <strong>Pandas</strong>, <strong>Selenium</strong> e <strong>PyAutoGUI</strong>) para automação, análise e otimização de fluxos de trabalho.
+    </p>
+  </div>
+
+  <div style="margin-top: 20px;">
+    <img
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
+      alt="GIF animado"
+      width="80%"
+    />
+  </div>
+
+</div>
+
 
 ---
 
