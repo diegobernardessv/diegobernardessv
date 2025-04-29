@@ -104,13 +104,13 @@
   <a href="https://gitlab.com/diegobernardessv" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26&color=FC6D26&borderRadius=8" alt="GitLab Badge" />
   </a>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7319077828354809859/" target="_blank">
+  <a href="linkedin.com/in/diegobernardessv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&borderRadius=8" alt="LinkedIn Badge" />
   </a>  
   <a href="https://youtube.com/@diegobernardestv?si=7fnjgJmq_bSsY3Cg" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&borderRadius=8" alt="YouTube Badge" />
   </a>
-  <a href="https://instagram.com/diegobernardestv" target="_blank">
+  <a href="https://instagram.com/diegobernardessv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-6c156c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6c156c&color=6c156c&borderRadius=8" alt="Instagram Badge" />
   </a>
 
