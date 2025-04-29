@@ -104,7 +104,7 @@
   <a href="https://gitlab.com/diegobernardessv" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26&color=FC6D26&borderRadius=8" alt="GitLab Badge" />
   </a>
-  <a href="linkedin.com/in/diegobernardessv" target="_blank">
+  <a href="https://www.linkedin.com/in/diegobernardessv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&borderRadius=8" alt="LinkedIn Badge" />
   </a>  
   <a href="https://youtube.com/@diegobernardestv?si=7fnjgJmq_bSsY3Cg" target="_blank">
