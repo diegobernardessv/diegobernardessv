@@ -6,7 +6,7 @@
     <h3>Eu sou <strong>Diego Bernardes Silva</strong></h3>
     <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
     <p>
-      Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e possuo um sólido conhecimento em <strong>Python</strong> e <strong>JavaScript</strong>, sendo especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>React.js</strong> e <strong>Bootstrap</strong>.
+      Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, possuo um conhecimento sólido em <strong>Python</strong> e <strong>JavaScript</strong>, e sou especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>React.js</strong> e <strong>Bootstrap</strong>.
       No desenvolvimento <strong>Back End</strong>, conto com a versatilidade do <strong>Flask</strong> para construir soluções robustas e escaláveis.
     </p>
     <p>
