@@ -6,14 +6,19 @@
     <h3>Eu sou <strong>Diego Bernardes Silva</strong></h3>
     <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
     <p>
-      Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, possuo um conhecimento sólido em <strong>Python</strong> e <strong>JavaScript</strong>, e sou especialista na criação de interfaces dinâmicas e totalmente responsivas utilizando <strong>HTML</strong>, <strong>CSS</strong>, <strong>React.js</strong> e <strong>Bootstrap</strong>.
-      No desenvolvimento <strong>Back End</strong>, conto com a versatilidade do <strong>Flask</strong> para construir soluções robustas e escaláveis.
+      Adoro mergulhar em desafios e dar vida a projetos, desde a concepção de interfaces intuitivas e responsivas – utilizando HTML, CSS, JavaScript e frameworks como Bootstrap – até a construção da lógica robusta do backend com Python e Flask.
     </p>
     <p>
-      Minha expertise se estende ao design e gerenciamento de bancos de dados, com experiência em <strong>PostgreSQL</strong>, além da criação de <strong>APIs de alta performance</strong> que garantem a integração eficiente entre sistemas.
+      Para mim, cada projeto é uma oportunidade de tecer funcionalidades complexas de forma elegante. Isso inclui a estruturação eficiente de dados, e o desenvolvimento de APIs ágeis que garantem a comunicação fluida entre diferentes partes de um sistema. Meu foco é sempre em entregar algo que não apenas funcione bem, mas que também seja escalável e proporcione uma ótima experiência ao usuário.
     </p>
     <p>
-      Na área de dados, utilizo o <strong>Power BI</strong> para transformar informações em insights valiosos através da modelagem <strong>DAX</strong>, e aplico <strong>Python</strong> (com bibliotecas como <strong>Pandas</strong>, <strong>Selenium</strong> e <strong>PyAutoGUI</strong>) para automação, análise e otimização de fluxos de trabalho.
+      No final, o que me move é a satisfação de ver um projeto concluído impactando positivamente e resolvendo problemas reais.
+    </p>
+    <p>
+      Minha jornada em Análise e Desenvolvimento de Sistemas me deu o "como", mas é o desafio de transformar uma ideia em uma solução funcional e elegante que me move. Explore meus projetos e veja essa filosofia em prática!
+    </p>
+    <p>
+      🚀 Estou sempre aberto a novas conexões e oportunidades para projetos Freelancer!
     </p>
   </div>
 
