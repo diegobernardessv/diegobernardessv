@@ -36,7 +36,7 @@
 
 <h3 align="center">🛠️ Tecnologias que domino</h3>
 
-<div align="center">
+<div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="Python" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />  
