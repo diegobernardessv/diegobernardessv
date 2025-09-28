@@ -24,19 +24,18 @@
 ## 👨🏽‍💻 Sobre mim :
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas, Pós-graduando em Engenharia de Software  
-🔥 Conhecimento sólido em Python, JavaScript, HTML/CSS, React.js e Bootstrap  
+🔥 Conhecimento sólido em Python, Flask, JavaScript, HTML/CSS, Bootstrap e SQL 
 🛠️ Back-end Developer com Flask para soluções versáteis, robustas e escaláveis  
-🗄️ Banco de Dados: PostgreSQL, MongoDB  
-🛡️ DevOps: Docker  
+🗄️ Banco de Dados: PostgreSQL, MySQL, MongoDB 
 📊 Data/APIs: Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyAutoGUI)  
 🎨 Design e Prototipação: Figma, Canva, Draw.io, Mermaid.js  
-🧹 Versionamento: Git, GitLab
+🧹 Versionamento: Git, Github, GitLab
 
 ---
 
 <h3>📚 Atualmente estudando</h3>
 
-🌬️ **TailwindCSS**  
+🐍 **Python Avançado**  
 🐳 **Docker**  
 📦 **Arquiteturas escaláveis**  
 ⚙️ **DevOps (CI/CD)**
