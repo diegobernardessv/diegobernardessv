@@ -1,20 +1,9 @@
 <h1 align="center">Olá devs, 👋 Sejam muito bem-vindos!</h1>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; animation: fadeIn 2s ease-in-out;">
-
-  <div style="max-width: 800px; text-align: left; opacity: 0; animation: fadeInContent 2s forwards;">
-    <h3>Eu sou <strong>Diego Bernardes Silva</strong></h3>
-    <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
-  </div>
-
-  <div style="margin-top: 20px; opacity: 0; animation: fadeInGif 2s forwards 1s;">
-    <img
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif"
-      alt="GIF animado"
-      width="40%"
-    />
-  </div>
-
+<div align="center">
+  <h3>Eu sou <strong>Diego Bernardes Silva</strong></h3>
+  <p><em>Um desenvolvedor apaixonado por transformar ideias em realidade através da tecnologia.</em></p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" alt="GIF animado" width="40%" />
 </div>
 
 ---
@@ -22,12 +11,12 @@
 ## 👨🏽‍💻 Sobre mim :
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas, Pós-graduando em Engenharia de Software  
-🔥 Conhecimento sólido em Python, Flask, JavaScript, HTML/CSS, Bootstrap e SQL
+🔥 Conhecimento sólido em Python, Flask, JavaScript, HTML/CSS, Bootstrap e SQL  
 🛠️ Back-end Developer com Flask para soluções versáteis, robustas e escaláveis  
 📊 Data/APIs: Power BI, Automação e Análise de Dados com Python (Pandas, Selenium, PyAutoGUI)  
-🎨 Design e Prototipação: Figma, Canva, Draw.io, Mermaid.js 
-🧹 Versionamento: Git, Github, GitLab
-🐘 Banco de dados: PostgreSQL, mySQL, MongoDB</p>
+🎨 Design e Prototipação: Figma, Canva, Draw.io, Mermaid.js  
+🧹 Versionamento: Git, Github, GitLab  
+🐘 Banco de dados: PostgreSQL, mySQL, MongoDB
 
 ---
 
@@ -70,12 +59,11 @@
   </a>
   <a href="https://www.linkedin.com/in/diegobernardessv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&borderRadius=8" alt="LinkedIn Badge" />
-  </a>  
-  <a href="https://youtube.com/@diegobernardestv?si=7fnjgJmq_bSsY3Cg" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&borderRadius=8" alt="YouTube Badge" />
   </a>
-  <a href="https://instagram.com/diegobernardessv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-6c156c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6c156c&color=6c156c&borderRadius=8" alt="Instagram Badge" />
+  <a href="https://www.instagram.com/diegobernardessv/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F&borderRadius=8" alt="Instagram Badge" />
   </a>
-
+  <a href="https://www.youtube.com/channel/UChj2WsyXpsSFdHP3rKpuIbw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000&borderRadius=8" alt="YouTube Badge" />
+  </a>
 </p>
