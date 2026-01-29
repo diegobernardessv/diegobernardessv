@@ -1,5 +1,5 @@
 
-<h1 align="center">DIEGO BERNARDES</h1>
+<h1 align="center">Diego Bernardes</h1>
                                                    
 <p align="center"><b>Software Engineer | Indie SaaS Founder</b></p>
 <p align="center"><i>Building systems in stealth mode.</i></p>
