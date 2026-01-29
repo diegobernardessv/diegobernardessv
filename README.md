@@ -21,11 +21,12 @@
 
 ## 🌍 Vision
 
-I focus on building scalable backend systems and automation tools.
+Build software that automates boring operations and empowers teams.
 
-Manifestly is my long-term experiment in workflow engines, digital documents, and multi-tenant SaaS architecture.
+Manifestly is my lab for SaaS architecture, workflow systems, and product engineering.
 
-Goal: create global software products and sustainable independent businesses.
+Long-term: become an independent software builder shipping global products.
+
 
 
 ---
