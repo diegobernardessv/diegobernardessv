@@ -104,12 +104,6 @@ I focus on **shipping real systems, not portfolio demos**.
 
 ---
 
-## 📊 GitHub Activity
-
-![Snake animation](https://github.com/diegobernardessv/diegobernardessv/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Current Focus
 
 - Scaling Manifestly into a global SaaS platform  
