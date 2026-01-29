@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Bernardes Silva</h1>
-<h3 align="center">Full Stack Developer | SaaS Builder | Workflow Automation Enthusiast</h3>
+<h3 align="center">Software Engineer | SaaS Builder | Workflow Automation Enthusiast</h3>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="35%" />
@@ -55,19 +55,6 @@
 - Notifications system  
 - Reporting & dashboards  
 - PostgreSQL + Flask backend  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegobernardessv&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobernardessv&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobernardessv&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
