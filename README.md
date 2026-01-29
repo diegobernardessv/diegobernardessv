@@ -1,20 +1,19 @@
 <h1 align="center">Diego Bernardes</h1>
 
 <p align="center"><b>Software Engineer | Indie SaaS Founder</b></p>
-```markdown
-> Building systems in stealth mode.
+<p align="center"><i>Building systems in stealth mode.</i></p>
 
 ---
 
 <p align="center">
   <a href="https://linkedin.com/in/diegobernardessv">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ff003c"/>
   </a>
   <a href="https://github.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ff003c"/>
   </a>
   <a href="https://gitlab.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab"/>
+    <img src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=gitlab&logoColor=ff003c"/>
   </a>
 </p>
 
@@ -26,7 +25,7 @@
 
 Logistics is the first vertical, but the platform is designed to scale into procurement, HR, finance, and compliance workflows.
 
-My long-term goal is to build a global SaaS company focused on operational automation.
+**Long-term mission:** build a global SaaS company focused on operational automation.
 
 ---
 
@@ -34,11 +33,11 @@ My long-term goal is to build a global SaaS company focused on operational autom
 
 - Bachelor in Systems Analysis and Development  
 - Postgraduate student in Software Engineering  
-- Full Stack Developer focused on backend systems and SaaS architecture  
+- Backend-focused Full Stack Developer building SaaS systems  
 - Background in logistics, ERP (SAP / TOTVS), and enterprise operations  
-- Indie hacker building products from zero to revenue  
+- Indie hacker shipping products from zero to revenue  
 
-I focus on **shipping real products, not just demos**.
+I focus on **shipping real systems, not portfolio demos**.
 
 ---
 
@@ -63,8 +62,8 @@ I focus on **shipping real products, not just demos**.
 - RESTful APIs & backend systems  
 - Workflow engines  
 - Digital signatures & document automation  
-- PostgreSQL + NoSQL hybrid storage  
-- CI/CD & containerized deployments  
+- PostgreSQL storage  
+- Containerized deployments & CI/CD pipelines  
 
 ---
 
@@ -125,10 +124,10 @@ I focus on **shipping real products, not just demos**.
 
 <p align="center">
   <a href="https://linkedin.com/in/diegobernardessv">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff003c"/>
   </a>
   <a href="https://github.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff003c"/>
   </a>
 </p>
 
@@ -137,3 +136,4 @@ I focus on **shipping real products, not just demos**.
 <p align="center">
   <i>Building global products from Brazil 🇧🇷</i>
 </p>
+
