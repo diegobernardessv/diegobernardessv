@@ -5,20 +5,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/diegobernardessv">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ff003c"/>
-  </a>
-  <a href="https://github.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ff003c"/>
-  </a>
-  <a href="https://gitlab.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=gitlab&logoColor=ff003c"/>
-  </a>
-</p>
-
----
-
 ## 🌍 The Mission
 
 I bridge the gap between abstract code and operational reality. With **12 years of hands-on experience in logistics and supply chain**, I build software that survives the warehouse floor.
@@ -90,7 +76,13 @@ I'm always looking for partnerships with LogTechs, SaaS founders, and teams buil
 
 <p align="center">
   <a href="https://linkedin.com/in/diegobernardessv">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff003c"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ff003c"/>
+  </a>
+  <a href="https://github.com/diegobernardessv">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ff003c"/>
+  </a>
+  <a href="https://gitlab.com/diegobernardessv">
+    <img src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=gitlab&logoColor=ff003c"/>
   </a>
 </p>
 
