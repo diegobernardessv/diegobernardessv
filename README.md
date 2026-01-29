@@ -1,7 +1,7 @@
-<h1 align="center"># Diego Bernardes</h1>
+<h1 align="center">Diego Bernardes</h1>
 
-<p align="center">**Software Engineer | Indie SaaS Founder**</p>  
-<p align="center">Building **Manifestly** — a workflow and document automation platform for operational teams.</p>
+<p align="center"><b>Software Engineer | Indie SaaS Founder</b></p>
+<p align="center">Building <b>Manifestly</b> — a workflow and document automation platform for operational teams.</p>
 
 ---
 
@@ -23,7 +23,7 @@
 
 **Manifestly is evolving into a horizontal workflow and document automation platform for operational teams.**
 
-Logistics is the first vertical, but the platform is designed to scale into HR, finance, procurement, and compliance workflows.
+Logistics is the first vertical, but the platform is designed to scale into procurement, HR, finance, and compliance workflows.
 
 My long-term goal is to build a global SaaS company focused on operational automation.
 
@@ -31,11 +31,13 @@ My long-term goal is to build a global SaaS company focused on operational autom
 
 ## 🚀 About Me
 
-- 🎓 Bachelor in Systems Analysis and Development  
-- 🎓 Postgraduate student in Software Engineering  
-- 🧠 Full Stack Developer focused on backend & SaaS systems  
-- 📦 Background in logistics, ERP (SAP / TOTVS), and enterprise operations  
-- 🧑‍💻 Indie hacker building products from zero to revenue  
+- Bachelor in Systems Analysis and Development  
+- Postgraduate student in Software Engineering  
+- Full Stack Developer focused on backend systems and SaaS architecture  
+- Background in logistics, ERP (SAP / TOTVS), and enterprise operations  
+- Indie hacker building products from zero to revenue  
+
+I focus on **shipping real products, not just demos**.
 
 ---
 
@@ -58,11 +60,11 @@ My long-term goal is to build a global SaaS company focused on operational autom
 
 - Multi-tenant SaaS architecture  
 - Role-Based Access Control (RBAC)  
-- REST APIs & backend systems  
+- RESTful APIs & backend systems  
 - Workflow engines  
 - Digital signatures & document automation  
 - PostgreSQL + NoSQL hybrid storage  
-- CI/CD & containerized deployment  
+- CI/CD & containerized deployments  
 
 ---
 
@@ -70,7 +72,7 @@ My long-term goal is to build a global SaaS company focused on operational autom
 
 ### **Manifestly — Workflow & Document Automation Platform**
 
-> Manifestly automates operational workflows and documents for teams.  
+> Manifestly automates operational workflows and documents for modern teams.  
 > First vertical: logistics delivery manifests.
 
 🔗 Repo: https://github.com/diegobernardessv/RomaneiosApp  
@@ -85,12 +87,12 @@ My long-term goal is to build a global SaaS company focused on operational autom
 
 ---
 
-## 🛣️ SaaS Roadmap (Public)
+## 🛣️ Public SaaS Roadmap
 
-**Phase 1 — MVP (Now)**  
+**Phase 1 — MVP (Current)**  
 - Core workflows  
-- Digital signature  
-- User roles  
+- Digital signatures  
+- Role-based access  
 
 **Phase 2 — SaaS Core**  
 - Multi-tenancy  
@@ -112,10 +114,10 @@ My long-term goal is to build a global SaaS company focused on operational autom
 
 ## 🎯 Current Focus
 
-- Building Manifestly into a scalable SaaS  
+- Scaling Manifestly into a global SaaS platform  
 - Backend architecture & system design  
 - Automation tools for enterprises  
-- Indie hacking and global remote roles  
+- Indie hacking and remote global opportunities  
 
 ---
 
@@ -135,4 +137,3 @@ My long-term goal is to build a global SaaS company focused on operational autom
 <p align="center">
   <i>Building global products from Brazil 🇧🇷</i>
 </p>
-
