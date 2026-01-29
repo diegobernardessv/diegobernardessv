@@ -1,7 +1,8 @@
 <h1 align="center">Diego Bernardes</h1>
 
 <p align="center"><b>Software Engineer | Indie SaaS Founder</b></p>
-<p align="center">Building <b>Manifestly</b> — a workflow and document automation platform for operational teams.</p>
+```markdown
+> Building systems in stealth mode.
 
 ---
 
