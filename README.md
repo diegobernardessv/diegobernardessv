@@ -21,11 +21,12 @@
 
 ## 🌍 Vision
 
-**Manifestly is evolving into a horizontal workflow and document automation platform for operational teams.**
+I focus on building scalable backend systems and automation tools.
 
-Logistics is the first vertical, but the platform is designed to scale into procurement, HR, finance, and compliance workflows.
+Manifestly is my long-term experiment in workflow engines, digital documents, and multi-tenant SaaS architecture.
 
-**Long-term mission:** build a global SaaS company focused on operational automation.
+Goal: create global software products and sustainable independent businesses.
+
 
 ---
 
