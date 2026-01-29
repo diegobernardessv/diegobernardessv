@@ -44,12 +44,13 @@ I focus on **shipping real products, not just demos**.
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c"/>
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff9c"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff9c"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9c"/>
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9c"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff003c"/>
 </p>
 
 ---
