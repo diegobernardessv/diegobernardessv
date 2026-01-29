@@ -1,7 +1,7 @@
 <h1 align="center">Diego Bernardes</h1>
-                                                   
-<p align="center"><b>Software Engineer | Indie SaaS Founder</b></p>
-<p align="center"><i>Building systems in stealth mode.</i></p>
+                                                
+<p align="center"><b>Product Engineer | Logistics Domain Expert | Solo SaaS Founder</b></p>
+<p align="center"><i>Solving complex supply chain problems with production-grade code.</i></p>
 
 ---
 
@@ -19,27 +19,55 @@
 
 ---
 
-## 🌍 Vision
+## 🌍 The Mission
 
-Build software that automates boring operations and empowers teams.
+I bridge the gap between abstract code and operational reality. With **12 years of hands-on experience in logistics and supply chain**, I build software that survives the warehouse floor.
 
-Manifestly is my lab for SaaS architecture, workflow systems, and product engineering.
-
-Long-term: become an independent software builder shipping global products.
-
-
+My current focus is **Manifestly**, a SaaS ecosystem designed to digitize and automate enterprise workflows, replacing legacy paperwork with secure, audit-ready digital processes.
 
 ---
 
 ## 🚀 About Me
 
-- Bachelor in Systems Analysis and Development  
-- Postgraduate student in Software Engineering  
-- Backend-focused Full Stack Developer building SaaS systems  
-- Background in logistics, ERP (SAP / TOTVS), and enterprise operations  
-- Indie hacker shipping products from zero to revenue  
+- **Product-First Engineer:** I don't just ship features; I ship solutions with business ROI.
+- **Logistics Expert:** Deep knowledge of ERP ecosystems (SAP, TOTVS Protheus) and supply chain bottlenecks.
+- **End-to-End Ownership:** From database schema design to containerized deployments and CI/CD pipelines.
+- **Academic Background:** B.S. in Systems Analysis and Development | Postgraduate in Software Engineering.
 
-I focus on **shipping real systems, not portfolio demos**.
+---
+
+## 🏗️ Technical Mastery
+
+I architect systems for **longevity and scale**, focusing on:
+
+- **Clean Architecture:** Domain-driven design and modular backends.
+- **Security & Compliance:** Digital signatures, RBAC, and secure document auditing.
+- **DevOps Culture:** Docker & Kubernetes orchestration, automated GitLab CI/CD.
+- **Data Integrity:** Complex PostgreSQL modeling and ACID-compliant transactions.
+
+---
+
+## 💎 Flagship Project: Manifestly
+
+> **Replacing paper with precision.** > Manifestly is an enterprise-grade platform for document automation and workflow routing.
+
+🔗 **Core Repo:** [Manifestly (formerly RomaneiosApp)](https://github.com/diegobernardessv/RomaneiosApp)  
+*(I am currently refactoring this into a global multi-tenant SaaS).*
+
+**What's under the hood?**
+- **Engine:** Python / FastAPI & Flask.
+- **Data:** PostgreSQL + SQLAlchemy.
+- **Auth:** Role-Based Access Control (RBAC) with signature delegation.
+- **Real-time:** WebSockets for instant notifications.
+- **Cloud:** Cloudflare-shielded infrastructure with Kubernetes.
+
+---
+
+## 🛣️ Roadmap: From Solo Project to Global SaaS
+
+- [x] **v1.0 - Core Engine:** Digital signatures, CRUD, and basic workflows.
+- [ ] **v2.0 - SaaS Core:** Multi-tenancy, Stripe/Asaas billing integration, and organization isolation.
+- [ ] **v3.0 - Global Scale:** Internationalization (i18n), API Public access, and AI-driven workflow optimization.
 
 ---
 
@@ -48,87 +76,25 @@ I focus on **shipping real systems, not portfolio demos**.
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff003c"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff003c"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff003c"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff003c"/>
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff003c"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff003c"/>
 </p>
 
 ---
 
-## 🏗️ Architecture Focus
+## 🎯 Let's Connect
 
-- Multi-tenant SaaS architecture  
-- Role-Based Access Control (RBAC)  
-- RESTful APIs & backend systems  
-- Workflow engines  
-- Digital signatures & document automation  
-- PostgreSQL storage  
-- Containerized deployments & CI/CD pipelines  
-
----
-
-## 🌍 Flagship Project
-
-### **Manifestly — Workflow & Document Automation Platform**
-
-> Manifestly automates operational workflows and documents for modern teams.  
-> First vertical: logistics delivery manifests.
-
-🔗 Repo: https://github.com/diegobernardessv/RomaneiosApp  
-
-**Core Modules**
-- Digital documents & signatures  
-- Workflow routing & approvals  
-- Notifications engine  
-- Dashboards & analytics  
-- Admin delegation system  
-- PostgreSQL backend  
-
----
-
-## 🛣️ Public SaaS Roadmap
-
-**Phase 1 — MVP (Current)**  
-- Core workflows  
-- Digital signatures  
-- Role-based access  
-
-**Phase 2 — SaaS Core**  
-- Multi-tenancy  
-- Billing & subscriptions  
-- API integrations  
-
-**Phase 3 — Platform**  
-- Workflow templates marketplace  
-- AI-assisted automation  
-- Enterprise integrations  
-
----
-
-## 🎯 Current Focus
-
-- Scaling Manifestly into a global SaaS platform  
-- Backend architecture & system design  
-- Automation tools for enterprises  
-- Indie hacking and remote global opportunities  
-
----
-
-## 🌐 Connect
+I'm always looking for partnerships with LogTechs, SaaS founders, and teams building high-stakes enterprise software.
 
 <p align="center">
   <a href="https://linkedin.com/in/diegobernardessv">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff003c"/>
   </a>
-  <a href="https://github.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff003c"/>
-  </a>
 </p>
 
----
-
 <p align="center">
-  <i>Building global products from Brazil 🇧🇷</i>
+  <i>Building global products with the resilience of Brazilian logistics. 🇧🇷</i>
 </p>
 
