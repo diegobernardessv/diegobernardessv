@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Diego Bernardes Silva 👋</h1>
-<h3 align="center">Full Stack Developer • SaaS Builder • Workflow Automation Engineer</h3>
+# Diego Bernardes
+
+**Software Engineer | Indie SaaS Founder**  
+Building **Manifestly** — a workflow and document automation platform for operational teams.
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/diegobernardessv">
