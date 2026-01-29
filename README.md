@@ -1,7 +1,7 @@
-# Diego Bernardes
+<h1 align="center"># Diego Bernardes</h1>
 
-**Software Engineer | Indie SaaS Founder**  
-Building **Manifestly** — a workflow and document automation platform for operational teams.
+<p align="center">**Software Engineer | Indie SaaS Founder**</p>  
+<p align="center">Building **Manifestly** — a workflow and document automation platform for operational teams.</p>
 
 ---
 
