@@ -1,89 +1,141 @@
-<h1 align="center">Hi 👋, I'm Diego Bernardes Silva</h1>
-<h3 align="center">Software Engineer | SaaS Builder | Workflow Automation Enthusiast</h3>
+<h1 align="center">Hi, I'm Diego Bernardes Silva 👋</h1>
+<h3 align="center">Full Stack Developer • SaaS Builder • Workflow Automation Engineer</h3>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTltdjJ5b3l4N253Z3lvcjcxbjFiaDBjaGc4c3MwMmJjMDAxamE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NaDfUq0PoLm7UAtUu1/giphy.gif" width="35%" />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/diegobernardessv">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/diegobernardessv">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github"/>
+  </a>
+  <a href="https://gitlab.com/diegobernardessv">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab"/>
+  </a>
+</p>
+
+---
+
+## 🌍 Vision
+
+**Manifestly is evolving into a horizontal workflow and document automation platform for operational teams.**
+
+Logistics is the first vertical, but the platform is designed to scale into HR, finance, procurement, and compliance workflows.
+
+My long-term goal is to build a global SaaS company focused on operational automation.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Bachelor's in Systems Analysis and Development, postgraduate student in Software Engineering  
-- 🧠 Full Stack Developer focused on backend and SaaS platforms  
-- 🏗️ Currently building **Manifestly**, a workflow & document automation platform  
-- 📊 Background in logistics, ERP systems, and operational processes  
-- 🌍 Interested in scalable architectures, SaaS products, and automation  
+- 🎓 Bachelor in Systems Analysis and Development  
+- 🎓 Postgraduate student in Software Engineering  
+- 🧠 Full Stack Developer focused on backend & SaaS systems  
+- 📦 Background in logistics, ERP (SAP / TOTVS), and enterprise operations  
+- 🧑‍💻 Indie hacker building products from zero to revenue  
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 🏗️ Architecture Focus
 
-- 🐍 Advanced Python  
-- 🐳 Docker & Containerization  
-- ⚙️ CI/CD and DevOps practices  
-- 🏗️ Scalable SaaS architectures  
-
----
-
-## 💼 Featured Project
-
-### 🌍 Manifestly (formerly RomaneiosApp)
-> A workflow and document automation platform for operational teams.  
-> First vertical: logistics and digital delivery manifests.
-
-🔗 Repository: https://github.com/diegobernardessv/RomaneiosApp  
-
-**Key Features**
-- Digital manifests & signatures  
-- Role-based access control  
-- Notifications system  
-- Reporting & dashboards  
-- PostgreSQL + Flask backend  
+- Multi-tenant SaaS architecture  
+- Role-Based Access Control (RBAC)  
+- REST APIs & backend systems  
+- Workflow engines  
+- Digital signatures & document automation  
+- PostgreSQL + NoSQL hybrid storage  
+- CI/CD & containerized deployment  
 
 ---
 
-## 🎯 Focus Areas
+## 🌍 Flagship Project
 
-- SaaS Product Engineering  
-- Workflow Automation  
-- Backend Systems  
-- B2B Platforms  
-- Data & Process Automation  
+### **Manifestly — Workflow & Document Automation Platform**
+
+> Manifestly automates operational workflows and documents for teams.  
+> First vertical: logistics delivery manifests.
+
+🔗 Repo: https://github.com/diegobernardessv/RomaneiosApp  
+
+**Core Modules**
+- Digital documents & signatures  
+- Workflow routing & approvals  
+- Notifications engine  
+- Dashboards & analytics  
+- Admin delegation system  
+- PostgreSQL backend  
 
 ---
 
-## 🌐 Connect With Me
+## 🛣️ SaaS Roadmap (Public)
+
+**Phase 1 — MVP (Now)**  
+- Core workflows  
+- Digital signature  
+- User roles  
+
+**Phase 2 — SaaS Core**  
+- Multi-tenancy  
+- Billing & subscriptions  
+- API integrations  
+
+**Phase 3 — Platform**  
+- Workflow templates marketplace  
+- AI-assisted automation  
+- Enterprise integrations  
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://gitlab.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=diegobernardessv&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobernardessv&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobernardessv&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building Manifestly into a scalable SaaS  
+- Backend architecture & system design  
+- Automation tools for enterprises  
+- Indie hacking and global remote roles  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/diegobernardessv">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/diegobernardessv">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/channel/UChj2WsyXpsSFdHP3rKpuIbw">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://github.com/diegobernardessv">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <i>Building global products from Brazil 🇧🇷</i>
+</p>
+
