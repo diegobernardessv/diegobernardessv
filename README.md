@@ -102,14 +102,7 @@ My long-term goal is to build a global SaaS company focused on operational autom
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegobernardessv&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobernardessv&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobernardessv&layout=compact&theme=tokyonight"/>
-</p>
+![Snake animation](https://github.com/diegobernardessv/diegobernardessv/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
