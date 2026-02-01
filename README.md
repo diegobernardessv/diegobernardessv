@@ -6,7 +6,7 @@
 ---
 
 ## 🧪 DBSolutions Lab
-DBSolutions Lab is my independent software house and innovation hub. While other "DB Solutions" focus on legacy infra or databases, we focus on **shipping modern products**. 
+DBSolutions Lab is my independent software house and innovation hub. **
 
 - **The Mission:** Bridge the gap between code and operational reality.
 - **The Method:** Production-grade code with the resilience required for global logistics.
