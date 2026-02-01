@@ -1,15 +1,15 @@
 <h1 align="center">Diego Bernardes</h1>
                                                 
-<p align="center"><b>Product Engineer | Logistics Domain Expert | Solo SaaS Founder</b></p>
+<p align="center"><b>Software Engineer | Logistics Domain Expert | SFounder @ DBSolutions Lab'</b></p>
 <p align="center"><i>Solving complex supply chain problems with production-grade code.</i></p>
 
 ---
 
-## 🌍 The Mission
+## 🧪 DBSolutions Lab'
+DBSolutions Lab' is my independent software house and innovation hub. While other "DB Solutions" focus on legacy infra or databases, we focus on **shipping modern products**. 
 
-I bridge the gap between abstract code and operational reality. With **12 years of hands-on experience in logistics and supply chain**, I build software that survives the warehouse floor.
-
-My current focus is **Manifestly**, a SaaS ecosystem designed to digitize and automate enterprise workflows, replacing legacy paperwork with secure, audit-ready digital processes.
+- **The Mission:** Bridge the gap between code and operational reality.
+- **The Method:** Production-grade code with the resilience required for global logistics.
 
 ---
 
@@ -28,14 +28,14 @@ I architect systems for **longevity and scale**, focusing on:
 
 - **Clean Architecture:** Domain-driven design and modular backends.
 - **Security & Compliance:** Digital signatures, RBAC, and secure document auditing.
-- **DevOps Culture:** Docker & Kubernetes orchestration, automated GitLab CI/CD.
+- **DevOps Culture:** Docker, automated GitLab CI/CD.
 - **Data Integrity:** Complex PostgreSQL modeling and ACID-compliant transactions.
 
 ---
 
-## 💎 Flagship Project: Manifestly
-
-> **Replacing paper with precision.** > Manifestly is an enterprise-grade platform for document automation and workflow routing.
+## 🚀 Flagship Project: Manifestly
+> **A DBSolutions Lab Original Product.**
+> Replacing paper with precision through document automation and workflow routing.
 
 🔗 **Core Repo:** [Manifestly (formerly RomaneiosApp)](https://github.com/diegobernardessv/RomaneiosApp)  
 *(I am currently refactoring this into a global multi-tenant SaaS).*
