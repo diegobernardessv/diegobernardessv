@@ -1,6 +1,6 @@
 <h1 align="center">Diego Bernardes</h1>
                                                 
-<p align="center"><b>Software Engineer | Logistics Automation Specialist | Founder @ DBSolutions Lab'</b></p>
+<p align="center"><b>Software Engineer | Logistics Automation Specialist | Indie Hacker | Founder @ DBSolutions Lab'</b></p>
 <p align="center"><i>Solving complex supply chain problems with production-grade code.</i></p>
 
 ---
