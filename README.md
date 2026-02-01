@@ -87,6 +87,6 @@ I'm always looking for partnerships with LogTechs, SaaS founders, and teams buil
 </p>
 
 <p align="center">
-  <i>&copy; DBSolutions Lab - Building global products with resilience and passion. 🇧🇷</i>
+  <i>&copy; DBSolutions Lab - Building global products with Resilience and Passion. 🇧🇷</i>
 </p>
 
