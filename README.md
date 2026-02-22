@@ -67,7 +67,7 @@ I architect systems for **longevity and scale**, focusing on:
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff003c"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff003c"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff003c"/>
-  <img src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=golang&logoColor=ff003c"/>
+  <img src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=ff003c"/>
 </p>
 
 ---
