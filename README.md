@@ -1,6 +1,6 @@
 <h1 align="center">Diego Bernardes Silva</h1>
 
-<p align="center"><b>Software Engineer | SaaS & Workflow Systems Specialist | Indie Hacker | Founder @DBSolutions Lab</b></p>
+<p align="center"><b>Product Engineer | SaaS & Workflow Systems Specialist | Indie Hacker | Founder @DBSolutions Lab</b></p>
 <p align="center"><i>I build SaaS systems end-to-end — architecture, APIs, databases, UX. I close the gap between how systems actually work and the software meant to support them.</i></p>
 
 ---
