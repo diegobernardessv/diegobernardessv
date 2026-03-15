@@ -50,8 +50,8 @@ I architect systems for **longevity and scale**, focusing on:
 ---
 
 ### 🤝 Faz o Racha *(in active development)*
-**A DBSolutions Lab + GBTECH Original Product.**
-Bill-splitting app for Brazilians — organizes group expenses, sends automatic payment reminders via WhatsApp, tracks Pix payments with receipt confirmation, and builds a reputation score for every user.
+<p>**A DBSolutions Lab + GBTECH Original Product.**</p>
+<p>Bill-splitting app for Brazilians — organizes group expenses, sends automatic payment reminders via WhatsApp, tracks Pix payments with receipt confirmation, and builds a reputation score for every user.</p>
 
 - **Backend:** Golang + Chi Router + GORM + MySQL + Redis
 - **Auth:** Keycloak (Google OAuth, JWT)
@@ -72,8 +72,8 @@ Bill-splitting app for Brazilians — organizes group expenses, sends automatic 
 ---
 
 ### ⚙️ Manifestly 
-**A DBSolutions Lab Original Product.**
-Replacing paper-based approvals in logistics and industrial operations with structured digital workflows, audit trails, and ERP-aligned process modeling.
+<p>**A DBSolutions Lab Original Product.**</p>
+<p>Replacing paper-based approvals in logistics and industrial operations with structured digital workflows, audit trails, and ERP-aligned process modeling.</p>
 
 - **Engine:** Python / FastAPI & Flask
 - **Data:** PostgreSQL + SQLAlchemy
