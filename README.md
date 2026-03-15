@@ -37,8 +37,8 @@ I architect systems for **longevity and scale**, focusing on:
 ## 🛠️ Active Projects
 
 ### 🛒 GoShopping *(in active development)*
-**A DBSolutions Lab + GBTECH Original Product.**
-A full-stack SaaS shopping list app — designed and shipped end-to-end as part of the GoShopping product, covering backend, web frontend, and mobile.
+<p>**A DBSolutions Lab + GBTECH Original Product.**</p>
+<p>A full-stack SaaS shopping list app — designed and shipped end-to-end as part of the GoShopping product, covering backend, web frontend, and mobile.</p>
 
 - **Backend:** Golang + Gorilla Mux + MySQL + JWT
 - **Frontend:** React + TailwindCSS + Zustand
