@@ -36,7 +36,8 @@ I architect systems for **longevity and scale**, focusing on:
 
 ## 🛠️ Active Projects
 
-### 🛒 GoShopping
+### 🛒 GoShopping *(in active development)*
+> **A DBSolutions Lab + GBTECH Original Product.**
 > A full-stack SaaS shopping list app — designed and shipped end-to-end as part of the GoShopping product, covering backend, web frontend, and mobile.
 
 - **Backend:** Golang + Gorilla Mux + MySQL + JWT
@@ -48,7 +49,29 @@ I architect systems for **longevity and scale**, focusing on:
 
 ---
 
-### ⚙️ Manifestly *(in active development)*
+### 🤝 Faz o Racha *(in active development)*
+> **A DBSolutions Lab + GBTECH Original Product.**
+> Bill-splitting app for Brazilians — organizes group expenses, sends automatic payment reminders via WhatsApp, tracks Pix payments with receipt confirmation, and builds a reputation score for every user.
+
+- **Backend:** Golang + Chi Router + GORM + MySQL + Redis
+- **Auth:** Keycloak (Google OAuth, JWT)
+- **Mobile:** Flutter (Android + iOS)
+- **Web:** React PWA + TypeScript + Vite + TailwindCSS
+- **Notifications:** WhatsApp API + SendGrid
+- **Infra:** K3S (Kubernetes), Contabo VPS, Cloudflare CDN
+
+**Roadmap:**
+- [x] Backend — all REST endpoints (events, payments, groups, friends, reputation)
+- [x] Mobile — Flutter app end-to-end
+- [x] Web — React PWA end-to-end
+- [x] Landing page — waitlist live at [fazoracha.dbsolutions.dev.br](https://fazoracha.dbsolutions.dev.br)
+- [ ] Production deploy + public launch
+
+🔗 [gitlab.com/dbsolutions-gbtech/faz-o-racha](https://gitlab.com/dbsolutions-gbtech/faz-o-racha)
+
+---
+
+### ⚙️ Manifestly 
 > **A DBSolutions Lab Original Product.**
 > Replacing paper-based approvals in logistics and industrial operations with structured digital workflows, audit trails, and ERP-aligned process modeling.
 
@@ -100,4 +123,3 @@ I'm always open to partnerships with LogTechs, SaaS founders, and teams building
 <p align="center">
   <i>&copy; DBSolutions Lab — Building global products with Resilience and Passion. 🇧🇷</i>
 </p>
-
